@@ -1,1 +1,3 @@
 master 1. commit yazildi . 
+
+master 2. commit yazildi . 
