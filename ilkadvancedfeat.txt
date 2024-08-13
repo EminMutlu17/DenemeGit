@@ -1,1 +1,3 @@
 advancedfeat 1. commit atildi . 
+
+advancedfeat 2. commit olusturuldu . 
