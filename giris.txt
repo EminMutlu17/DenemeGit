@@ -7,3 +7,5 @@ master 3. commit yazildi .
 master 4. commit yazildi . 
 
 master 5. commit yazildi . 
+
+master 6. commit yazildi . 
