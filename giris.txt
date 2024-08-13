@@ -3,3 +3,5 @@ master 1. commit yazildi .
 master 2. commit yazildi . 
 
 master 3. commit yazildi . 
+
+master 4. commit yazildi . 
